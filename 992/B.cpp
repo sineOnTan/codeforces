@@ -12,7 +12,7 @@ int a[N];
 
 // Precomputes the values
 // The values can be precomputed by using double the previous number plus 2
-// Giving out solution.
+// Giving the solution.
 
 int32_t main () {
     int cases;
