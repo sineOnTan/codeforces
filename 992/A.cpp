@@ -8,6 +8,9 @@ using namespace std;
 #define YES {cout << "YES" << endl;}
 #define NO {cout << "NO" << endl;}
 
+// Small values so could be brute forced. 
+// Had some errors with using sets because they can't have multiple instances of the same value
+
 int32_t main () {
     int cases;
     cin >> cases;
