@@ -1,9 +1,5 @@
-yes
-no
-yes
-yes
-no
-yes
-no
-yes
-yes
+? 1 2
+! B
+? 1
+? 0
+! B
