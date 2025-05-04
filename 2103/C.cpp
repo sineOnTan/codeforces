@@ -1,3 +1,7 @@
+// Definitely overcomplicated it with determining the count of less and greaters.
+// Converting to binary first is definitely easier.
+// Honestly suprised at the simplicity of the linear time solution.
+
 #include <bits/stdc++.h>
 using namespace std;
 #define int long long
