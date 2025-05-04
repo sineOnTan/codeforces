@@ -4,11 +4,6 @@ using namespace std;
 
 const int N = 2e5 + 5;
 int arr[N];
-int prefix_count[N];
-int suffix_count[N];
-
-
-multiset<int> diffs;
 
 int32_t main () {
     int cases;
