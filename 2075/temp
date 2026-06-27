@@ -1,0 +1,2 @@
+        res += max((((1 - n + (n - 1)) * (elemCount[n] - elemCount[0])) + predSum[n - 1] - predSum[0]) * 2, (long long)0) * a[n];
+        res += ((a[n] * (a[n] - 1)) / 2) * (2 * (n - 1) - n + 1) * 2;
